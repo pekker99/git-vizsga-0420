@@ -8,5 +8,7 @@ Readme.md és .gitignore fájl létrehozva a main vonalon. A git add. paranccsal
 
 Ezután a "git branch console" paranccsal létrehoztam egy új ágat és a "git checkout console" paranccsal átlépek ebbe az új ágba.
 
+git add. paranccsal hozzá adom a app.js fájlba történt módosításokat és a "git commit -m "Javascript fáljhoz log kiíratás hozzáadva"" paranccsal megjegyzést hozzárögzítem a módosításhoz.
+
 
 
