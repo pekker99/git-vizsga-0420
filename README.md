@@ -12,3 +12,10 @@ Ezután a "git branch console" paranccsal létrehoztam egy új ágat és a "git 
 
 
 A "git add." paranccsal hozzá adom a style.css fájlba történt módosításokat és a "git commit -m "CSS oldal hátterének megváltoztatása"" paranccsal megjegyzést hozzárögzítem a módosításhoz.
+
+
+A "git add." paranccsal hozzá adom a README.md fájlba történt módosításokat és a "git commit -m "README.md fájl befejezve"" paranccsal megjegyzést hozzárögzítem a módosításhoz.
+
+A "git remote add origin https://github.com/pekker99/git-vizsga-0420.git" paranccsal távoli gyűjtemény-t adom meg.
+
+A "git push -u origin console" paranncsal feltöltöm a Githubon létrehozott vizsga mappába.
